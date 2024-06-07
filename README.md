@@ -10,13 +10,13 @@ In this game, a random number is generated, and your task is to guess it. The pr
 
 To play the Guessing Game, follow these steps:
 
-1.Run the program.
+        1.Run the program.
 
-2.Input your guess when prompted.
+        2.Input your guess when prompted.
 
-3.Receive feedback on your guess.
+        3.Receive feedback on your guess.
 
-4.Repeat steps 2-3 until you correctly guess the number.
+        4.Repeat steps 2-3 until you correctly guess the number.
 
 Once you've guessed the number correctly, the program will display the number of attempts it took to win the game.
 
