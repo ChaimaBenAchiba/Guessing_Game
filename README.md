@@ -35,7 +35,7 @@ Too low! Try again.
 
 Guess a number between 1 and 100: 70
 Congratulations! You've guessed the number correctly in 4 attempts.
-
+![Capture d'écran 2024-06-12 230142](https://github.com/ChaimaBenAchiba/Guessing_Game/assets/168870781/207c885a-200e-42e0-9d19-6e51bb5cee06)
 # Technology Used
 
 This game is developed using the Python programming language and utilizes random number generation and user input for gameplay.
